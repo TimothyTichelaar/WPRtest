@@ -53,4 +53,4 @@ jobs:
           app-name: 'WPRgroepB'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FCEF8A37437C40179A24AA3E02E38B58 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF1592B6F6FD46C9901178F293356D69 }}
